@@ -1,6 +1,7 @@
 # Localhost_Setup_AMP( Ubundu )
 Steps to setup localhost with Apache, MySql and Php
 
+
 **Apache Web Server Installation**
 
 - sudo apt-get update
@@ -14,6 +15,7 @@ Steps to setup localhost with Apache, MySql and Php
 
 You can check the webserver by hitting localhost in the browser.
 
+
 **MySQL Database Server Installation**
 
 - sudo apt-get install mysql-client mysql-server
@@ -21,6 +23,7 @@ You can check the webserver by hitting localhost in the browser.
 - sudo mysql_secure_installation 
 
 Done. Now you can access the MySql through terminal using the credentials which you provided in the above steps
+
 
 **PHP Installation**
 
